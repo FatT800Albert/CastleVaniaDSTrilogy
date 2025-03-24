@@ -1,0 +1,12 @@
+Kunai addresses:
+
+0220F0F8 = throw direction
+
+0220F108 = how many objects are spawned
+
+0220F118 = changing this to 07 allows Kunai to fly to 4 diagonal directions
+
+0220F11C = space between objects address
+
+0220F134 = speed address
+

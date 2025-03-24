@@ -1,0 +1,8 @@
+PoR Bible pointers:
+
+02210784 = Iframes
+
+022107D8 = afterimage duration
+
+02210860 = Bible duration
+

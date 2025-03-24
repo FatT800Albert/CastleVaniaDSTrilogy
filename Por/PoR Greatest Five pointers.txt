@@ -1,0 +1,9 @@
+Greatest Five pointers:
+
+021DE734 = 12 guarantees frame 5 (Trevor 8-bit) and frame 6 (Simon 8-bit) always playing
+
+021DE733 = 14 makes all Belmonts appear in big cluster
+
+021DE79C = controls how far sprites appear
+
+021DE7A0 = Keeps the sprites full on screen, slides to another side. 10 works well

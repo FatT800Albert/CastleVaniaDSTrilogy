@@ -1,0 +1,13 @@
+0221716C =  1st part movement speed (left)
+
+02217178 = 1st part movement speed (right)
+
+022171DC = Damage type. Tested with 09 giving same dmg for the whole attack duration. 05 Default
+
+022171E8 = Allows Running Axe to stop as soon as player stops holding atk button. FE tested to be most stable. FC default
+
+022172AC = 2nd part movement speed (left)
+
+022172B8 = 2nd part movement speed (right)
+
+

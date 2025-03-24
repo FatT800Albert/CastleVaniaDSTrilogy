@@ -1,0 +1,15 @@
+Bwaka Knife addresses:
+
+0220F444 = start height
+
+0220F444 = start distance
+
+0220F450 = affects height too
+
+0220F488 = travel speed
+
+0220F48C = travel speed friction
+
+0220F4F0 = iframes
+
+0220F590 = spinning height

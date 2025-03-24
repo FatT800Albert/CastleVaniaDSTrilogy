@@ -1,0 +1,31 @@
+Cross Richter (0221240C) addresses:
+
+02212490 = modifier of throw force
+
+02212491 = adds extra resistance to the force when adjusted higher. Can be used to fine tune it
+
+022124A8 = Height caller for Cross throw point
+
+022124D1 = GFX address. 12 cool unused cross
+
+02212518 = Cross iframes
+
+0221253C = After effects duration
+
+02212544 , 02212548 , 0221254C = Change to 06 for cool clean blue afterimages
+
+02212594 = Cross afterimages
+
+0221259C = Range modifier
+
+022125C4 = flying speed modifier. Affects returning
+
+022125E4 = Disables Cross disappearing when touched by player when it returns
+
+02212708 = particle effects. 3C cool fire effects, 2A for hearts :D
+
+0221271C = particle effect physics
+
+0221274C = disables rotating
+
+02212755 = keeps crosses rotating in place

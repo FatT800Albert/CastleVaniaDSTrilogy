@@ -1,0 +1,11 @@
+PoR Superjump pointers:
+
+0220603C = relic enabled
+
+02206090 = changing this disables superjump when player character is on the floor
+
+022060C8 = how many jumps player can do after superjump (01 on default)
+
+022060DC = superjump jump height
+
+022060F0 = superjump duration

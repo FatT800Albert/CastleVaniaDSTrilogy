@@ -1,0 +1,11 @@
+Wrecking Ball pointers:
+
+0220C97C = chain range
+
+0220C9C0 = swing starting direction
+
+0220C9D0 = iframes
+
+0220CB80 = chain start pointer (X axis)
+
+0220CB84 = chain start pointer (Y axis)

@@ -1,0 +1,31 @@
+PoR Slide Jump hex addresses:
+
+022030E0 = Gravity of bounceback
+
+02203100 = Bounceback animation. 10 is backflip on vanilla Richter animation order
+
+02203108 (left), 02203110 (right) = Slide Jump bounceback force. 
+
+0220310C (left), 02203118 (right) = disables bounceback
+
+022031B0 = Changing this makes every floor slippery
+
+02204A8C = Timer to execute Slide Jump from Slide. Higher the number, less time to execute slide jump
+
+02204AF0 = Afterimage address
+
+02204B0C (Left), 02204B18 (right) = slide jump's momentum
+
+02204B40 = Slide Jump's jump height force
+
+ldrsh r1, [r4, 4h] 02204B7C = dmg address (best is F6).
+
+02204B84 = changed enemy parts flight direction (vanilla 05). Combines dmg of Uppercut value to Slide Jump
+
+02204B88 = Element address
+
+02204CC0 = possibly something with dmg?
+
+02204CE6 = changing this will replace slide with instant Slide Jump
+
+02204CE8 = does something with dmg too

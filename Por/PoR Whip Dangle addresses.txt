@@ -1,0 +1,7 @@
+PoR Whip Dangle addresses:
+
+021DC3B4 = whip dangles default position speed
+
+021DC06C = whip dangles blue outline removed if edited
+
+021DC440 = can be used to increase whip dangle range

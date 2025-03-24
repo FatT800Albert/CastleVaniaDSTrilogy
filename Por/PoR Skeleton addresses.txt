@@ -1,0 +1,7 @@
+PoR Skeleton addresses:
+
+0224538C = Skeleton travel speed when player is far away
+
+022454EC = Skeleton travel speed when moving away from the player
+
+022454FC = Disables Skeletons from backing away when near player

@@ -1,0 +1,64 @@
+Grand Cross (Richter) pointers:
+
+0221125C = makes whip go BRRR
+
+022113C8 = charge animation pointer
+
+022113CD = 44 makes charge play from the start
+
+022113D0 = makes GC gfx play infront of the player character
+
+02211404 = Iframes
+
+0221141C = charge up duration timer
+
+02211454 = GC charge particle height address
+
+02211460 = GC charge lines duration
+
+02211667 = 55 makes GC appear instantly
+
+02211469 = 44 makes charge go through whole animation
+
+02211678 = Grand Cross character animation
+
+022116BC = Grand Cross spawn pop up amount
+
+022116C0 = Grand Cross duration timer
+
+022116C8 = 01 makes the cross expand slowly, 02 becomes nuclear bomb
+
+022116DC = Makes main GC gfx more stationary
+
+02211714 = 3C makes the spinning crosses disappear
+
+02211734 = player afterimage wideness
+
+02211738 = player afterimage opacity
+
+0221176C = Richter's afterimage colors during Grand Cross address (AA cool white effect, A7 blue, B1 darker blue, 9A white rainbowy look works well in every area of the game, A7 11 works good too, A6 11, 61 11. 92 10 works in whip's memory) 9D, 10 default
+
+02211784 = Player character afterimage jump height
+
+02211788 = changing this disables player afterimage rising
+
+022117AC = FE/FF removes spinning crosses & GC doesn't stop
+
+02211920 = Grand Cross afterimage jump height
+
+0221192C = Grand Cross afterimage wideness address
+
+022119EC = spinning crosses iframes
+
+02211A04 = spinning crosses size
+
+02211A0C = Buffs dmg a lot and makes spinning crosses straight
+
+02211A14 = spinning crosses spinning distance
+
+02211A18 = spinning crosses stack
+
+02211A28 = 55 makes crosses upside down, 32 straight
+
+
+

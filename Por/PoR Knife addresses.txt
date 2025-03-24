@@ -1,0 +1,15 @@
+Knife addresses:
+
+02210B04 = Middle knife spawn distance address. Smaller the number, closer to player it spawns
+
+02210B08 = Middle knife spawn height caller. 
+
+02210B1C = Bottom knife spawn distance address. Higher the number, closer to player it spawns
+
+02210B20 = Bottom knife spawn height caller
+
+02210B40 = Top knife spawn distance address. Smaller the number, closer to player it spawns
+
+02210B44 = Top knife spawn height caller
+
+02210B98 = Dagger throwing speed

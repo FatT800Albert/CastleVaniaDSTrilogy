@@ -1,0 +1,15 @@
+Steel ball:
+
+0220DA14 = Steel balls throw force
+
+0220DA28 = Gravity force.
+
+0220DA30 = Subweapon throw spawn distance
+
+0220DA38 = Subweapon throw spawn height
+
+0220DA60 = Ball spin speed
+
+0220DAB4 = iframes
+
+0220DC70 = screen shake amount (up & down) 

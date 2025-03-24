@@ -1,0 +1,7 @@
+PoR 03 Backstab addresses:
+
+0221986C = teleport distance range
+
+02219938 = DMG address
+
+0221990C = Keeps teleporting set amounts around

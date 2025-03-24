@@ -1,0 +1,13 @@
+PoR Crossbow pointers:
+
+0220B9F0 = projectile spawn distance
+
+0220B9F4 = projectile spawn height
+
+0220BAA0 = projectile launch speed (left)
+
+0220BAC0 = iframes
+
+0220BB34 = projectile launch speed (right)
+
+0220BCD8 / 0220BCE8 / 0220BD14 = visual effects (smoke)

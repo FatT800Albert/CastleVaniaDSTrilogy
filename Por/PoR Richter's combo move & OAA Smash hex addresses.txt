@@ -1,0 +1,17 @@
+Richter's combo move / OAA Smash hex addresses:
+
+02217924 = first part afterimage duration
+
+02217938 (left) 02217944 (right) = Combo moves first part's speed modifier
+
+02217954 = 77 sprite appears upside down :D
+
+022179BC (left) 022179C8 (right) = Combo moves second part's speed modifier
+
+022179EC = third part afterimage duration
+
+02217A00 (left) 02217A0C (right) = Combo moves third part's speed modifier
+
+02217AC4 = gravity force after the Combo Move
+
+

@@ -1,0 +1,8 @@
+PoR Discus addresses:
+
+0220B554, 0220B555  = throw gravity
+
+0220B55C = throw force
+
+0220B5AC = iframes
+

@@ -1,0 +1,5 @@
+PoR Nebula pointers
+
+022182F8 = duration caller
+
+022185D4 = effect controller. Bigger the number, wider the effect

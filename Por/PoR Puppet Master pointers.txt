@@ -1,0 +1,9 @@
+Puppet Master pointers:
+
+02212CF8 = throw distance
+
+02212D4C = throw arc height
+
+02212D64 = throw gravity force
+
+02212E28 = value 02 allows puppet master to be thrown offscreen and still teleport player. 05 Default

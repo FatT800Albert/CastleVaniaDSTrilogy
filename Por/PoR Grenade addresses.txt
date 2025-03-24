@@ -1,0 +1,11 @@
+PoR Grenade addresses:
+
+0220DE6C = Throw height address
+
+0220DE74 = Throw force
+
+0220DE84 = Gravity address
+
+0220DF10 = Iframes
+
+0220DF3C = Grenade explosion timer

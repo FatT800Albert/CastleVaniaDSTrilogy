@@ -1,0 +1,31 @@
+Por axe pointers:
+
+02212A30 = Axe throw upward
+
+02212A50 = Axe throw forward
+
+02212A64 = gravity weight. Higher the number, lower the throw
+
+02212A6C = Axe spinning speed
+
+02212A74 = Axe throw start position pointer (X axis)
+
+02212A7C = Axe throw start position pointer (Y axis)
+
+02212AAC = audio pointer
+
+02212AB8 = changing this makes axes spin in reverse
+
+02212AE0 = iframes
+
+02212AEC = changes shading of afterimages, Causes lag in Whip's Memory
+
+02212AF4 = changes afterimage colors. 02 gives red tint to it. pretty alright if shading is 02
+
+02212AF8 = removes afterimages
+
+02212AFC = afterimage duration
+
+02212B20 = changes afterimage, B0 interesting
+
+02212B48 = 06 gives strong red afterimage

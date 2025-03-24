@@ -1,0 +1,10 @@
+PoR Tempest address
+
+021EA660 = duration
+
+021EA670 = width
+
+021EA675 = changes Tempests visual 
+
+021EA6CC = iframes
+

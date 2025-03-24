@@ -1,0 +1,12 @@
+Spirit of Light address:
+
+021F0064 = GFX address
+
+021F0104 = projectiles start travel speed
+
+021F019C = iframes
+
+021F02E0 = arc height
+
+
+

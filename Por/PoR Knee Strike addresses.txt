@@ -1,0 +1,16 @@
+PoR Knee Strike addresses:
+
+022175EC = Knee Strike gravity calculator. Higher the number, slower the fall
+
+022175ED = 3C removes landing lag
+
+02217648 = jump height calculator
+
+02217654 = Knee Strike's float calculator
+
+02217690 = Momentum (Left)
+
+0221769C = Momentum (right)
+
+022176C8 = DMG address
+

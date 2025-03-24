@@ -1,0 +1,15 @@
+Backflip pointers:
+
+02206008 (left) 02206010 (right) = speed modifier 
+
+02205FAC = Force caller. Bigger the number, higher you go
+
+02205FB1 = If changed player is able to make backflips even forward
+
+02205FB4 = Invincibility frames calculator. Vanilla value is 20 (14 in hex)
+
+02205FC0 = Gravity caller. Higher the number, lower the jump
+
+02205FC8 = Change value -> space jump
+
+02205FFC = Makes backflips height momentum based. Higher you jump, higher backflip

@@ -1,0 +1,15 @@
+PoR Paper Airplane:
+
+0220E7E0 = Spawn height
+
+0220E840 = loop arc. 47 my personal favourite
+
+0220E864 = edits the flight path. 03 fun
+
+0220E8A0 = iframes (10 default)
+
+0220E8A8 = loop height address
+
+0220E8AC = editing this disables the loop
+
+0220E938 = makes loops go constantly if value is f6 or f4

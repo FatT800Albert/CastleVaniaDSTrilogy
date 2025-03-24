@@ -1,0 +1,6 @@
+PoR Rush addresses:
+
+021E286C = momentum (left)
+
+021E2880 = momentum (right)
+

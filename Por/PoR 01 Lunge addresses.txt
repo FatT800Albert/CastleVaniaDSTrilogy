@@ -1,0 +1,9 @@
+PoR 01 Lunge addresses:
+
+02219BBC = DMG address
+
+02219BBC = Travel speed (left)
+
+02219BC8 = Travel speed (right)
+
+02219BF0 = friction. Bigger the value, shorter the distance

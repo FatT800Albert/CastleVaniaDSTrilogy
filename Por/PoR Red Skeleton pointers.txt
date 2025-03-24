@@ -1,0 +1,5 @@
+PoR Red Skeleton pointers:
+
+022A3FD0 = changing this bigger makes them do dashes
+
+022A3F40 = Changing this bigger makes skeles drop instantly and reconstruct instantly

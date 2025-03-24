@@ -1,0 +1,20 @@
+PoR Volcano addresses:
+
+021E0708 = height where volcano spawns to
+
+021E0828 = duration
+
+021E0878 = smoke trail spawn height
+
+021E0B98 = iframes
+
+021E0BA0 = 1st rock launch force
+
+021E0BB0 = 2nd rock launch force
+
+021E0BB8 = 3rd rock launch force
+
+021E0BC8 = rock gravity address
+
+
+

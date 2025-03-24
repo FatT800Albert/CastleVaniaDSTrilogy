@@ -1,0 +1,9 @@
+PoR Jumpkick addresses:
+
+02202BC4 = Jumpkick iframes
+
+02202BD0 = adjusts the scaling of dmg increase on jumpkick
+
+02202BF0 = adjusts the start dmg of jumpkick
+
+0220490A = diagonal divekick momentum

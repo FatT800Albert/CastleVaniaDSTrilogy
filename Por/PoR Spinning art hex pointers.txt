@@ -1,0 +1,9 @@
+PoR Spinning art hex pointers:
+
+0221736C = Gravitation caller for Spinning art. Smaller the number, less gravity (01 vanilla) 
+
+022173EC (left) 022173F8 (right) = Spinning art speed address for the listed directions (05 vanilla)
+
+0221740C = momentum timer. Higher the number, longer the distance
+
+022174E4 = momentum resistance calculator. Setting it to 0 removes momentum slowing down at the end

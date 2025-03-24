@@ -1,0 +1,9 @@
+PoR Rocket Slash addresses:
+
+0220C2AC = charge up duration
+
+0220C2D0 = momentum address
+
+0220C2D8 = duration when player sprite has disappeared completely
+
+0220C3CC = 03 removes end pause. 01 default

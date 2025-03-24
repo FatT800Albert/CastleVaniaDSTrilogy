@@ -1,0 +1,17 @@
+PoR Richter Tackle pointers:
+
+02217FE8 = no pushback on tackle & be able to go through enemies if set to 4
+
+02217E0C = Tackle speed modifier
+
+02217E0D = can be used fine tune Tackle speed
+
+02217F7C = DMG type of attack (04 default)
+
+02217ED0 = Also affects tackle speed.
+
+(mov, r3, 1400h) 02217E1C = Tackle DMG scaler
+
+02217ED4 = Tackle animation duration
+
+02217EC8 = Tackle momentum resistance calculator. The smaller the number the faster the tackle actually is (default 5)

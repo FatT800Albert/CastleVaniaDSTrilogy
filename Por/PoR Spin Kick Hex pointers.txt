@@ -1,0 +1,17 @@
+Por Spin Kick Hex pointers:
+
+02217B38 = invincibility frames calculator. Vanilla value is 0C
+
+02217B44 = attack with melee weapon while executing Spin Kick with A0/90 (vanilla D0)
+
+02217B88 = Jump force generated from Spin Kick (01 vanilla)
+
+02217B94 = gravitation strength. The smaller the number less gravity(vanilla 06)
+
+02217BD0 (left) 02217BDC (right) = affects the Spin Kick's speed in the following directions listed (vanilla 0E).
+
+02217BE4 = force caller. Bigger the value, shorter the distance
+
+02217C04 = Spin Kick dmg (best is F6)
+
+02217C44 = Spin Kick contact pushback controller. FF removes bounce back after landing a hit.
