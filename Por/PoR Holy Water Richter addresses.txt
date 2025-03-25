@@ -1,0 +1,20 @@
+Holy water (Richter) addresses:
+
+02211D50 = Holy water projectiles throw delay
+
+02211D84 = Height caller for projectiles start
+
+02211DC0 = Holy Water's throw distance
+
+02211DC4 = Holy Water throw height index. Higher the number, lower the registered throw height. (prevents Holy Water from clipping and disappearing if thrown under a roof/jump through floor)
+
+02211DD8 = Holy Water's duration counter
+
+02211E68 = Iframes
+
+02211E89 = Holy Water's throw gravity force. Higher the number, floatier throw
+
+02211EFC = Holy Water flames travel speed
+
+02211EFD = Holy Water flames travel speed. Can be used to fine tune it (0E for stationary flame pillar)
+
