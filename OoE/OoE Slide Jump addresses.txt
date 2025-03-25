@@ -1,0 +1,7 @@
+Slide Jump addresses:
+
+02048080 = (left), 02048084 = (right) slide jump speed modifier
+
+02048098 = jump height 
+
+020480E0 (ldrsh r1, [r4, 4h]) = dmg address
