@@ -18,5 +18,5 @@ DoS Julius mode dmg related codes:
 
 021FC4A8 = Nerfs Yoko self heal, removes whip dangle
 
-021FC4B3 = 88 does self dmg, 22 +2, 40 +4, EE +0 
+021FC4B3 = Yoko heal per hit. 88 does self dmg, 22 +2, 40 +4, EE +0 
 
