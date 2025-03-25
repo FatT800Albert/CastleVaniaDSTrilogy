@@ -1,0 +1,3 @@
+DoS  09 Crit art addresses:
+
+02211500 = dmg address

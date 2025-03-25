@@ -1,0 +1,9 @@
+DoS Bat addresses:
+
+021FEF4C: Soma/Alucard's speed while flying right in Bat Form.
+
+021FEF6C: Soma/Alucard's speed while flying left in Bat Form.
+
+021FEF98 = Soma/Alucard's speed while flying down in Bat Form.
+
+021FEFA8 = Soma/Alucard's speed while flying up in Bat Form.

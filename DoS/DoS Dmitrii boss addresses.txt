@@ -1,0 +1,11 @@
+DoS Dmitrii boss addresses:
+
+022FFE90 = walk speed
+
+022FFFA4 = cancels backdash with soul/subweapon (05 works well)
+
+023000C4 = soul attack animation (0F backdash attack)
+
+02300178 = 14 allows Dmitrii cancel soul attack to other actions
+
+023001AC = 04 cancels soul attack at the end of the animation pointer (0A vanilla)

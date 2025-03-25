@@ -1,0 +1,9 @@
+DoS Dario addresses:
+
+0225AC1C = 16 allows Dario to attack without lag (13 default)
+
+0225AC8C = (BUGGY) 19 allows Dario to use twirling dragon attack from Throne room
+
+0225AD24 = 02 uses only the dragon attack
+
+0225ACF7 = most functional dragon attack (0F) (0A default)

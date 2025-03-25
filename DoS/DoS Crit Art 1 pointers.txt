@@ -1,0 +1,8 @@
+DoS Crit Art 1 pointers:
+
+022122D0 = dmg address
+
+022122F0 = momentum address (left)
+
+022122FC = momentum address (right)
+

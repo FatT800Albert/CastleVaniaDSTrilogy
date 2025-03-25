@@ -1,0 +1,5 @@
+DoS jumpkick pointers:
+
+021FDCA8 = momentum speed (left)
+
+021FDCB4 = momentum speed (right)

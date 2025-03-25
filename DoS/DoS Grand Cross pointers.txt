@@ -1,0 +1,33 @@
+Grand Cross DoS pointers
+
+02201320 = change to 20 you get running GC
+
+02201404 = charge animation address
+
+0220141A = voice
+
+02201428 = disables hitbox
+
+02201438 = iframes
+
+02201450 = charge duration
+
+0220145C = changes opacity of GC
+
+0220148C = changes height of the charge effects and GC afterimage
+
+022014CD = charge gfx line colors
+
+02201728 = changes behaviour of GC flames
+
+02201734 = speed modifier for side flames
+
+02201744 = flame GFX start height
+
+02201748 = 48 makes flames fit well with Rondo cross (2F vanilla)
+
+02201764 = flame GFX color
+
+02201770 = flame GFX float physics
+
+02201795 = CC gives flames more time ón screen

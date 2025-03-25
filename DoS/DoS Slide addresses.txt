@@ -1,0 +1,7 @@
+DoS Slide addresses:
+
+021FDDF8 = duration of the slide
+
+021FDE86 = gives slide same dmg as uppercut
+
+021FDE8A = slide speed address

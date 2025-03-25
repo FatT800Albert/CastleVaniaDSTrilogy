@@ -1,0 +1,22 @@
+DoS Julius mode dmg related codes:
+
+02201080 = makes all chars take equal amount of dmg
+
+0201435D = removes iframes after getting hit
+
+020CA9DC = DMG type of physical DMG. 01 Strike (vanilla) 0A fire, 1C ice, 22 lightning, 40 dark, 80 holy
+
+021FC34D = does something with uppercut / yoko dmg
+
+021FC37D = Can be used to increase/lower uppercut dmg (can crash game if changing to Yoko)
+
+021FC3AC = Uppercut/Yoko/Slide dmg address (1A best IMO)
+
+021FC3FC = Can be used to nerf Yoko (25, 70 IMO if 021FC3AC is set to 1A) 01 6A vanilla, maybe also 23,70 or 1A,70
+
+021FC435 = does smth with uppercut dmg too
+
+021FC4A8 = Nerfs Yoko self heal, removes whip dangle
+
+021FC4B3 = 88 does self dmg, 22 +2, 40 +4, EE +0 
+

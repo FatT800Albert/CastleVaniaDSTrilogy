@@ -1,0 +1,5 @@
+02202140 = modifier of throw force
+
+02202141 = adds extra resistance to the force when adjusted higher. Can be used to fine tune it
+
+022021DC = holy cross iframes

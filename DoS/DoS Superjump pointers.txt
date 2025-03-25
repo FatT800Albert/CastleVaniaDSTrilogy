@@ -1,0 +1,9 @@
+DoS Superjump pointers
+
+021FE898 = Julius uppercuts amount in mid air
+
+021FE8BC = keeps superjump animation all the way to the ground
+
+021FE8F8 = changes the animation you enter after superjump has ended
+
+021FEB18 = changing this to 01 makes Julius do dinky uppercut

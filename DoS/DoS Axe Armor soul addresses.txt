@@ -1,0 +1,11 @@
+DoS Axe Armor soul addresses.
+
+Axe palette: 0220C520
+
+Axe throw height: 0220C51C
+
+Axe throw distance: 0220C528
+
+Axe iframes: 0220C5D4
+
+Afterimage calculator: 0220C604

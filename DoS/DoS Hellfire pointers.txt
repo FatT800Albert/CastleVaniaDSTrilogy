@@ -1,0 +1,3 @@
+Hellfire addresses:
+
+0220363C = projectile amount. Default value 03

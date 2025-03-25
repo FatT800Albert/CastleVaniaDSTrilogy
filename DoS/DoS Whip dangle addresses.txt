@@ -1,0 +1,11 @@
+DoS Whip dangle addresses:
+
+0201438C = reduces dmg to 1
+
+021FC2B4 = animation frame used for whip dangle
+
+021FC2B5 = disables changing direction in midair during whip dangle
+
+021FC2B8 = Belmont Copter. Whip dangle allows player to glide dependent on the jumps momentum during whip dangle activation
+
+021FC2C0 = Disables dangle
