@@ -1,4 +1,4 @@
-DoS Dario addresses:
+DoS Dario addresses (Hahahaha):
 
 0225AC1C = 16 allows Dario to attack without lag (13 default)
 
