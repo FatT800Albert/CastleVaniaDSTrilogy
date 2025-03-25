@@ -1,3 +1,9 @@
 Hellfire addresses:
 
+022034A4 = projectile activation timer. 1B default
+
+022034E4 = projectile start pointer (Y-axis)
+
+0220359C = changing this makes hellfire hurt player :D
+
 0220363C = projectile amount. Default value 03

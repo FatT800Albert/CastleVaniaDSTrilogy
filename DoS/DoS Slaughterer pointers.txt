@@ -1,0 +1,6 @@
+DoS Slaughterer pointers:
+
+0220913C = If address 0220919C is set to AF this can be used to change iframes
+
+0220919C = AF allows this attack to doublehit
+
