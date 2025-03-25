@@ -4,6 +4,6 @@ Holy water (DoS) addresses:
 
 02201B38 = iframes
 
-02201BC5 = distance caller. 14 makes it stationary pillar flame (0A default)
+02201BC5 = travel distance. 14 makes it stationary pillar flame (0A default)
 
 02201BCC = Holy water flame travel speed
