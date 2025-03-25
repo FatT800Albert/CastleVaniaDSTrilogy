@@ -26,6 +26,6 @@ Por axe pointers (Richter):
 
 02212AFC = afterimage duration
 
-02212B20 = changes afterimage, B0 interesting
+02212B20 = changes afterimage
 
 02212B48 = 06 gives strong red afterimage
