@@ -24,7 +24,7 @@ Grand Cross DoS pointers
 
 02201744 = flame GFX start height
 
-02201748 = 48 makes flames fit well with Rondo cross (2F vanilla)
+02201748 = 48 makes flames fit well with Rondo cross GFX (2F vanilla)
 
 02201764 = flame GFX color
 
