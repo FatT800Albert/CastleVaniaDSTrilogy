@@ -1,0 +1,3 @@
+Superjump addresses:
+
+02046D74 = force caller, higher the number, lower the jump
