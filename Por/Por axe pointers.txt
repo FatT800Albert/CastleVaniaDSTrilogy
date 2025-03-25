@@ -1,4 +1,4 @@
-Por axe pointers:
+Por axe pointers (Richter):
 
 02212A30 = Axe throw upward
 
