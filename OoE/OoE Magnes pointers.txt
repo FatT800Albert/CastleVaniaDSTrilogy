@@ -1,0 +1,9 @@
+OoE Magnes pointers:
+
+0207AB30 = magnes grab visual range
+
+0207AB80 = magnet grab distance
+
+0207AC24 = travel distance when attached to the magnet
+
+0207AC7C = magnets pull force when not pressing anything

@@ -1,0 +1,7 @@
+OoE jumpkick pointers:
+
+02049BF4 = iframes
+
+02049C00 = smaller the number, higher the damage
+
+02049C2C = dmg address

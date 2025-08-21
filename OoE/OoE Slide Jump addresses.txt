@@ -4,4 +4,12 @@ Slide Jump addresses:
 
 02048098 = jump height 
 
+020480A8 = Gravity force. Higher the number, smaller the jump
+
 020480E0 (ldrsh r1, [r4, 4h]) = dmg address
+
+020480EC = DMG type
+
+0204813C = bounceback distance from hitting a wall (left)
+
+02048140 = bounceback distance from hitting a wall (right)

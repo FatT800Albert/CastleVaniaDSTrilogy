@@ -1,0 +1,3 @@
+OoE Ignis Union pointers:
+
+020A0EE0 = cast animation

@@ -1,0 +1,11 @@
+OoE Union Grando pointers:
+
+020A18B8 = iframes
+
+020A1918 = wind spawn duration
+
+020A193C = wind rising speed
+
+020A1954 = wind tower duration
+
+020A1974 = Wind disappearing speed

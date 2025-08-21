@@ -1,0 +1,7 @@
+OoE Globus pointers:
+
+0207A104 = launch pointer (Y-axis)
+
+0207A164 = Upper orb launch direction
+
+0207A17C = Bottom orb launch direction

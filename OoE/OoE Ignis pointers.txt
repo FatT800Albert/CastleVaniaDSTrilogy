@@ -1,0 +1,15 @@
+OOE Ignis pointers:
+
+02072380 = projectile launch pointer (X-axis)
+
+0207238C = projectile launch pointer (Y-axis)
+
+0207241C = spread launch direction
+
+02072420 = changing this makes ignis a single straight fireball
+
+02072421 = changing this to 17 makes ignis tighter triple fireball
+
+02072434 = projectile amount
+
+02072450 = editing this removes projectile spawn effect

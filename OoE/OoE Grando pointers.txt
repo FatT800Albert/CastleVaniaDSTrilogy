@@ -1,0 +1,9 @@
+OoE Grando pointers:
+
+02072AD4 = Projectile spawn pointer (X-axis)
+
+02072AE0 = Projectile spawn pointer (Y-axis)
+
+02072B70 = iframes
+
+02072C64 = projectile speed
