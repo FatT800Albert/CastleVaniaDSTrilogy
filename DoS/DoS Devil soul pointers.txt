@@ -1,0 +1,3 @@
+DoS Devil soul pointers:
+
+021E0210 = ATK increase

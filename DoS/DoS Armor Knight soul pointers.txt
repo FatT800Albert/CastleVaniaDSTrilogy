@@ -1,0 +1,5 @@
+DoS Armor Knight soul pointers:
+
+021E47E0 = spin speed
+
+021E492C = iframes

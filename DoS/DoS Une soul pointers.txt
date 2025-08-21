@@ -1,0 +1,11 @@
+DoS Une soul pointers:
+
+02206704 = throw pointer X-axis
+
+02206758 = throw force
+
+02206760 = throw gravity
+
+02206838 = iFrames
+
+0220685C = duration on ground

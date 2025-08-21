@@ -1,0 +1,6 @@
+DoS Slaughterer soul pointers:
+
+0220913C = iframes
+
+0220919C = Changing this to AA continues hitbox. F2 default
+

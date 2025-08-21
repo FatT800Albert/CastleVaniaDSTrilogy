@@ -1,0 +1,5 @@
+DoS Crit Art 5 three attacks pointers:
+
+02211B30 = attack amounts while standing. 20 default (2 attacks while standing)
+
+02211B58 = DMG amount

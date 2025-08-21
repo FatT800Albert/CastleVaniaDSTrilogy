@@ -1,0 +1,30 @@
+DoS Blue Splash pointers:
+
+02202A30 = cast animation 
+
+02202A80 = Initial projectile spawn timer. 06 default
+
+02202AC8 = spawn delay for each projectile. 0A default
+
+02202AE0 = changes spawn behaviour
+
+02202AE4 = BF machinegun
+
+02202B44 = Projectile lauch audio. 50 Abaddon
+
+02202B88 = Cast audio pointer (random chance for voice clip playing). 0E Blue splash
+
+02202BEC = changes bluesplash icicles facing forward
+
+02202BFC = Changes how close icicles spawn. 0A really cool one :D
+
+02202C10 = projectile launch speed
+
+02202C11 = 15 really cool one :D
+
+02202C1C = really good looking rose formation
+
+02202C64 = iframes
+
+02202D5C = 05 fires icicles instantly after spawning
+

@@ -1,0 +1,7 @@
+DoS Flying Armor soul addresses:
+
+021E6404 = removes light circle
+
+021E63B4 = 30 superman :D
+
+021E63DD = glide weight calculator

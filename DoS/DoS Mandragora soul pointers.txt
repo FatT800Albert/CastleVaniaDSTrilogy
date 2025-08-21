@@ -1,0 +1,9 @@
+DoS Mandragora soul pointers:
+
+0220AB60 = throw force
+
+0220AB84 = throw height
+
+0220AB90 = throw gravity
+
+0220ABE8 = iFrames

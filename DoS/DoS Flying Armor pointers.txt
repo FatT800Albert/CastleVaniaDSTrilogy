@@ -1,0 +1,7 @@
+DoS Flying Armor pointers:
+
+023001D0 whole line = allows Flying Armor to attack faster
+
+02300284 = allows Flying Armor to attack faster if edited
+
+02300298 = allows Flying Armor to attack faster if edited

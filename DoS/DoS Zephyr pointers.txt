@@ -1,0 +1,41 @@
+DoS Zephyr pointers:
+
+023001C4 / 023001F0 = walking speed
+
+023003F8 / 023003FC = charge slash speed. F8 is delay to max speed and FC is slash speed
+
+02300444 = delay before slashing
+
+02300490 = makes charge slash's braking weaker. 28 default
+
+023005A4 = delay after charge slash
+
+0230073C = delay after throwing the knife. 1E default
+
+02300818 = jump speed to ceiling
+
+02300A84 = ceiling delay. 14 default
+
+02300AF4 = landing from ceiling delay. 3C default
+
+02300D70 / 02300DC8 = ceiling jump speed
+
+02300E28 = ceiling knife throw delay
+
+02300E40 = affects landing slide distance. 5A default
+
+023011EC = Za Warudo charge timer
+
+0230124C = Za Warudo charge afterimage size
+
+0230127C = Za Warudo charge afterimage size multiplier
+
+02301C64 = Za Warudo jump floatiness
+
+02301C84 = Za Warudo jump speed
+
+02301D64 = Za warudo knifes go straight line if changed
+
+02301EAC = Za Warudo jump landing timer
+
+02301F40 = Za Warudo backdash distance

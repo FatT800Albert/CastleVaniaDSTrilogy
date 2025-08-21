@@ -1,0 +1,35 @@
+DoS Death pointers:
+
+023000E8 = affects somehow to deaths flight height after double slash attack
+
+023002A4 = delay after throwing sickle that explodes to small sickles. B4 default
+
+023008BC = delay after double slash attack. 1E default
+
+02300AE4 = delay after clone downward slash attack. 3C default
+
+02300B44 / 02300B58 = Deaths shaking speed when summoning clones
+
+02300CB0 = delay turning to 2nd phase
+
+02301060 = delay when summoning scythe to hand spinning 2nd phase only
+
+02301144 = delay after rolling scythe attack during 2nd phase
+
+0230170C = delay before starting rolling scythe attack. 2nd phase
+
+02301748 = delay during rolling scythe attack
+
+02301CAC = delay before teleporting after warp slash 2nd phase. 
+02301CC0 / 02301CCC = travel distance after teleport slash 2nd phase
+
+02301E28 = delay before returning after teleporting from teleport slash. 3C default
+
+02301F08 = delay after returning from teleport slash. 3C default
+
+02301FE4 = delay before starting skull launch attack. 3C default
+
+023021A8 / 023021B0 / 023021B8 / 023021C0 = can be used to make interesting pattern timings with skulls
+
+0230229C = delay after skull launch
+

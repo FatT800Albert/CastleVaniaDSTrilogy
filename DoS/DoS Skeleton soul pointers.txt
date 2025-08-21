@@ -1,0 +1,7 @@
+DoS Skeleton soul pointers:
+
+0220768C = throw arc height
+
+02207698 = throw distance
+
+02207744 = iframes

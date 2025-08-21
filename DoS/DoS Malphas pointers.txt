@@ -1,0 +1,21 @@
+DoS Malphas pointers:
+
+022FFC64 = delay before calling the crows when landed. 1E default
+
+022FFDA0 = Jump height if nopt calling crows while grounded
+
+02300550 = feather shot duration
+
+023005A4 = feather shot spread angle
+
+023006EC = orb charge duration
+
+02300748 = Malphas's knockback after launching orbs
+
+02300770, 0230077C, 02300788, 02300794 = Affects orb launch directions	
+
+023009CC = Jump height after calling crows while grounded	
+
+02300A84 = launching crows backing away force (left)																02300A90 = launching crows backing away force (right)
+
+02300AF0 = can affect crow launch spread. 04 works well																02300B54 = affects crow launch duration. 6A works well																									

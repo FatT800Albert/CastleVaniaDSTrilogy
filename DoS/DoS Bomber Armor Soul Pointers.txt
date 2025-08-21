@@ -1,0 +1,11 @@
+DoS Bomber Armor Pointers:
+
+0220BD04 = throw force
+
+0220BD1C = duration before explosion. 80 default
+
+0220BD40 = iframes
+
+0220BD68 = throw height
+
+0220BD74 = throw gravity

@@ -1,4 +1,4 @@
-DoS Dario addresses (Hahahaha):
+DoS Dario addresses:
 
 0225AC1C = 16 allows Dario to attack without lag (13 default)
 
@@ -7,3 +7,35 @@ DoS Dario addresses (Hahahaha):
 0225AD24 = 02 uses only the dragon attack
 
 0225ACF7 = most functional dragon attack (0F) (0A default)
+
+0225ADBC = lag after turning around.
+
+0225B158 = afterimage size
+
+0225B474 = changing this to 0A makes Dario stun slightly easier (if GC hits fully)
+
+0225BB18 = duration between teleports
+
+0225BD40 = 1st flame pillar charge time
+
+Spawns default 3C
+
+0225BD5C = allows the 1st flame pillar to spawn faster if smaller
+
+0225BDC0 = 2nd flame pillar charge time
+
+0225BDDC = allows the 2nd flame pillar to spawn faster if smaller
+
+0225BE70 = 3rd pillar charge time
+
+0225BE8C = allows the 3rd flame pillar to spawn faster if smaller
+
+0225BEC8 = flame pillar duration
+
+0225C00C = wire wave speed
+
+0225C080 = wire wave duration
+
+0225C28C = Twirling dragon attack fire duration
+
+0225C3C8 = affects fireball cast

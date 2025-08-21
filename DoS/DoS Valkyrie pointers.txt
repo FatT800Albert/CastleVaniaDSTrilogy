@@ -1,0 +1,7 @@
+DoS Valkyrie pointers:
+
+021E067C = iframes
+
+021E0694 = transform time. 40 default
+
+021E074C = afterimage duration
