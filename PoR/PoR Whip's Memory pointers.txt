@@ -1,0 +1,45 @@
+PoR Whip's Memory pointers
+
+WM = Whip's Memory
+
+02231ED4 = Tackle dmg type, 05 slash
+
+02231ED5 = 30 makes Tackle give Curse & Poison
+
+02231EF0 = WM weapon pointer
+
+02231F08 = range indicator for WM to start using the main weapon
+
+02231F10 = WM attacks faster, throws subweapons instantly
+
+02231F1C = Makes WM stagger from every hit
+
+02231F5D = Richter reacts faster if changed
+
+02231F64 = delay calculator
+
+02231F6C = delay after each whip strike
+
+02232B2C = 20 makes Richter do mid air tackle
+
+02232B38 = animation pointer for jumping back before tackle. 10 is backflip
+
+02232B48 = Richter's tackle charge jump height
+
+02232B49 = changing this gives richter insta tackle
+
+02232B78 = Richter's tackle charge jump distance is increased if changed to 50 (vanilla 40)
+
+02232BB0 = 0A gives Whip's Memory ability to activate Tackle when jumping to a right wall
+
+02232BD4 = speed of the tackle
+
+02232BEC = duration of the tackle (2A doesn't break audio)
+
+02232C00 = increases range of the tackle. F8 works well
+
+02232C64 = 04 removes pause after Tackle
+
+02232C9C = moves the camera to the left during the start
+
+02232D34 = WM shadow duration. 3C default
