@@ -2,6 +2,8 @@ Backflip pointers:
 
 02206008 (left) 02206010 (right) = speed modifier 
 
+02205F10 = afterimage calculator
+
 02205FAC = Force caller. Bigger the number, higher you go
 
 02205FB1 = If changed player is able to make backflips even forward

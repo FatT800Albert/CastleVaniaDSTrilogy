@@ -1,0 +1,57 @@
+PoR Dracula pointers:
+
+022E50BC = Bat moon travel distance (right)
+
+022E50C0 = Bat moon travel distance (left)
+
+022E5118 = Bat moon size
+
+022E5340 = animation duration after bat moon 
+
+022E5794 = hell meatball spawn amount
+
+022E57D0 = affects meatball spawn width
+
+022E57EC = Meatball fireball height (upper)
+
+022E57F4 = Meatball fireball height (lower)
+
+022E5B0C = delay after each teleport. Vanilla 58
+
+022E6104 = timer for super moves
+
+If 022E6104 is 01 and 022E5B0C is 10 drac will do supermove always after hell meatball
+
+022E62E0 = exit teleport beam width
+
+022E6560 = enter teleport beam width
+
+022E65C8 = enter teleport beam duration
+
+022E6B74 = exit teleport bat flight speed
+
+022E6D30 = enter teleport materalizing speed
+
+022E7274 = fireball spawn location (X-axis) (when facing right)
+
+022E7280 = fireball spawn location (X-axis) (when facing left)
+
+022E7398 = middle fireball starting travel speed
+
+022E73A0 = fireball spread
+
+022E73C4 = 5th top fireball height
+
+022E73D0 = 5th top fireball strating travel speed
+
+022E73D8 = 5th bottom fireball height
+
+022E7530 = fireballs position duration. If made bigger they spread really well. 90 works well
+
+022E758C = fireball travel speed
+
+022E779C = meatball spawn location (X-axis) (when facing right)
+
+022E77A0 = meatball spawn location (X-axis) (when facing left)
+
+022E7BF8 = bat moon swarm spread rando

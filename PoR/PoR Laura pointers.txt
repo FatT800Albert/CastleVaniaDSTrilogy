@@ -1,0 +1,27 @@
+PoR Laura pointers:
+
+0228FB84 = twirl jump height
+
+0228FB98 = twirl jump speed forward
+
+0228FBA4 = also affects speed
+
+0228FD0C = spin kick height
+
+0228FD1C = spin kick gravity
+
+0228FD88 = 
+
+0228FEC0 = forward jump speed
+
+02290074 = backflip speed
+
+0229007C = backflip height
+
+022900BC = backflip gravity
+
+0229027C = disguise start walk speed
+
+022902D8 = Dash speed while disguised
+
+02290554 = landing smoke size

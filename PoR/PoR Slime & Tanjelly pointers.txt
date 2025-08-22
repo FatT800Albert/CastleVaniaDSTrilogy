@@ -1,0 +1,33 @@
+PoR Slime / Tanjelly pointers:
+
+0225A588 = changes Slime slap size. 04 works well if 0225C34C is 08
+
+0225A59C = tested value 02 and 05. Gives Tanjelly slap attack cool looking purple color
+
+0225BFDC = slap damage types
+
+0225C160 = slap knockback (left)
+
+0225C164 = slap knockback (right)
+
+0225C34C = jelly preparing to slap rising scale
+
+0225C364 = jelly slap rising duration
+
+0225C5F4 = jelly slap end duration
+
+0225C810 = ground jump gravity force
+
+0225C848 = wall jump force (left)
+
+0225C860 = wall jump gravity (left)
+
+0225C870 = wall jump force (right)
+
+0225C88C = wall jump gravity (right)
+
+0225C928 = ground jump connect to ceiling pointer
+
+0225CE6C = movement speed (Slime)
+
+0225CE70 = movement speed (Tanjelly)

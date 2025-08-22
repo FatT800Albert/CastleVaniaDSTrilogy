@@ -1,0 +1,9 @@
+PoR Medusa head pointers:
+
+022463AC = randomizes Medusa Heads flight speed. 
+
+022463B4 = flight speed
+
+022463D0 = randomizes Medusa Heads flight up / down momentum.
+
+022463D8 = Up / down height address

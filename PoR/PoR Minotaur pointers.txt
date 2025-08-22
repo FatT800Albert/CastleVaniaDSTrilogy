@@ -1,0 +1,27 @@
+PoR Minotaur pointers:
+
+0228D29C = Axe dash travel speed
+
+0228D4B8 = stone breath direction. 11 makes breath go straight forward
+
+0228D4CC = stone breath spawn address (X-axis)
+
+0228D4DC = stone breath spawn address (Y-axis)
+
+0228D4E0 = 0F makes stone breath go around minotaur
+
+0228D4F8 = stone breath speed
+
+0228D4FC = stone breath distance friction. Higher the number, shorter the distance
+
+0228D514 = breath duration on screen
+
+0228D5F8 = axe jump start (Y-axis)
+
+0228D628 = axe jump rising speed
+
+0228D634 = axe jump gravity
+
+0228D670 = axe jump travel distance
+
+0228DB34 = walk speed

@@ -1,0 +1,33 @@
+PoR Amducias pointers:
+
+022649E0 = death flame height
+
+02264A5C = hand lightning gfx amount
+
+02264A98 = hand lightning start gfx pointer (x-axis)
+
+02264AB0 = hand lightning start gfx size
+
+02264AB4 = hand lightning start gfx pointer (y-axis)
+
+02264B28 = lightning animation pointer
+
+02264B80 = lightning duration
+
+02264C20 = punch start timer. 2A vanilla
+
+02264D84 = punch travel speed
+
+02264D94 = punch duration
+
+02264D9C = punch end end braking animation pointer
+
+02264EC4 = punch end travel distance
+
+02264EEC = punch end duration
+
+02264F3C = Punch animation pointer
+
+02264F4C = changing this makes Amducias start with lightning and punch is stationary
+
+0226509C = idle standing animation
