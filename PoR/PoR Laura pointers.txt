@@ -10,8 +10,6 @@ PoR Laura pointers:
 
 0228FD1C = spin kick gravity
 
-0228FD88 = 
-
 0228FEC0 = forward jump speed
 
 02290074 = backflip speed
@@ -23,5 +21,6 @@ PoR Laura pointers:
 0229027C = disguise start walk speed
 
 022902D8 = Dash speed while disguised
+
 
 02290554 = landing smoke size
